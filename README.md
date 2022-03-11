@@ -1,2 +1,2 @@
 # expense-app-react-course
-Expense App built using React from react course in Udemy
+Expense App built using React from react course in Udemy by Maximilian
