@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The following items are what I learned from creating this Expense App:
+- React Basics & Working with Components
+- React State & Working with Events
+- Rendering Lists & Conditional Content
+
 ## Available Scripts
 
 In the project directory, you can run:
